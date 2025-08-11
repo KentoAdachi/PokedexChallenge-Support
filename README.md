@@ -33,7 +33,7 @@ https://yourusername.github.io/PokedexChallenge-Support/
 
 ## 📞 サポート
 
-- **メールサポート**: support@example.com
+- **メールサポート**: hotcakeandi@gmail.com
 - **サポートページ**: [こちら](https://yourusername.github.io/PokedexChallenge-Support/#support)
 
 ## ⚖️ 免責事項
