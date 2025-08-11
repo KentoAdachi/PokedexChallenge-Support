@@ -1,0 +1,47 @@
+# GitHub Pages Configuration for PokedexChallenge
+
+# Site settings
+title: PokedexChallenge
+description: AIクイズで楽しむポケモン図鑑アプリ - サポートページ
+baseurl: ""
+url: "https://yourusername.github.io/PokedexChallenge-Support"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# GitHub Pages settings
+repository: yourusername/PokedexChallenge-Support
+github:
+  repository_url: https://github.com/yourusername/PokedexChallenge-Support
+
+# SEO settings
+lang: ja
+author: Your Name
+twitter:
+  username: yourusername
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude files
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Collections and defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
